@@ -1,4 +1,51 @@
 {
+  "sampled_LongWanjuan-RedPajamaBook": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/liuxiaoran-240108120089/train/data/sampled_LongWanjuan/RedPajamaBook",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "sampled_LongWanjuan-RedPajamaStackExchange": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/liuxiaoran-240108120089/train/data/sampled_LongWanjuan/RedPajamaStackExchange",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "sampled_LongWanjuan-RedPajamaCommonCrawl": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/liuxiaoran-240108120089/train/data/sampled_LongWanjuan/RedPajamaCommonCrawl",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "sampled_LongWanjuan-RedPajamaArXiv": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/liuxiaoran-240108120089/train/data/sampled_LongWanjuan/RedPajamaArXiv",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "sampled_LongWanjuan-RedPajamaC4": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/liuxiaoran-240108120089/train/data/sampled_LongWanjuan/RedPajamaC4",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "sampled_LongWanjuan-RedPajamaGithub": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/liuxiaoran-240108120089/train/data/sampled_LongWanjuan/RedPajamaGithub",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "sampled_LongWanjuan-RedPajamaWikipedia": {
+    "file_name": "/inspire/hdd/ws-8207e9e2-e733-4eec-a475-cfa1c36480ba/embodied-multimodality/liuxiaoran-240108120089/train/data/sampled_LongWanjuan/RedPajamaWikipedia",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+
+
+
+
+  
   "identity": {
     "file_name": "identity.json"
   },
